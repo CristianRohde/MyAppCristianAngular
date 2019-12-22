@@ -1,1 +1,46 @@
 /* You can add global styles to this file, and also import other style files */
+h1{
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+}
+h2{
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+}
+body{
+    margin: 2em;
+}
+body, input[text],button{
+    color: rgb(2, 16, 43);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+a{
+    cursor: pointer;
+    cursor: hand;
+    font-size: 20px;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+nav a.active{
+    color: rgb(236, 119, 158);    
+}.items li{
+    margin: 0 0 2em 0;
+    list-style-type: none;
+    padding-left: 0;
+    width:  10em;
+}
+link{
+    color: deeppink;
+}
