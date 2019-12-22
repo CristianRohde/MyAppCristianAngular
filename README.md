@@ -1,5 +1,7 @@
 # MyAppCristian
 
+ROTAS Criar rotas, permitindo assim que o usuário consiga navegar pelas páginas da sua aplicação.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
 ## Development server
